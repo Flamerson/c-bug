@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - OnGround
+  - DeathTrigger
+  - EnemyFace
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backround
+    uniqueID: 3811957681
+    locked: 0
+  - name: underground
+    uniqueID: 97819983
+    locked: 0
+  - name: ground
+    uniqueID: 5239251
+    locked: 0
+  - name: details
+    uniqueID: 1980276867
+    locked: 0
+  - name: player
+    uniqueID: 506776611
+    locked: 0

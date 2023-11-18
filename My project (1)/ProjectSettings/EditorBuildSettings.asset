@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 155543465317b174083503fd6ff92d64
+  - enabled: 1
+    path: Assets/Scenes/fase-1.unity
+    guid: 7811fe573f544dd4da0bb7cd5dd6251e
+  - enabled: 1
+    path: Assets/Scenes/fase-2.unity
+    guid: 4adacacda9fc6204196d0a791490beec
+  - enabled: 1
+    path: Assets/Scenes/fase-3.unity
+    guid: b6902489f7a2abf489cef42ae9ed8777
+  - enabled: 1
+    path: Assets/Scenes/fase-4.unity
+    guid: 24008925101808543a47d96d564d68fd
+  - enabled: 1
+    path: Assets/Scenes/fase-1 girl.unity
+    guid: 08b751ef3e2e0784c9da24a6487426f5
+  - enabled: 1
+    path: Assets/Scenes/fase-2 girl.unity
+    guid: 23216c25f2c9e8149858243d526b8ea9
+  - enabled: 1
+    path: Assets/Scenes/fase-3 girl.unity
+    guid: 976b35b1c80a797419d66ad4af5b3a99
+  - enabled: 1
+    path: Assets/Scenes/fase-4 girl.unity
+    guid: 7cbb504aaeafcc54abdb1299b2a93121
+  - enabled: 1
+    path: Assets/Scenes/victory.unity
+    guid: 9de1fb4306c706e48be88c193b8b98b1
+  m_configObjects: {}
