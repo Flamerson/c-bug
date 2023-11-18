@@ -1389,9 +1389,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1998999326}
     m_Modifications:
+    - target: {fileID: 3298684309450959576, guid: d9949548c7f28164fbcf7a1143a9ddcd, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000017166
+      objectReference: {fileID: 0}
+    - target: {fileID: 3298684309450959576, guid: d9949548c7f28164fbcf7a1143a9ddcd, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 290
+      objectReference: {fileID: 0}
     - target: {fileID: 4604820731287429716, guid: d9949548c7f28164fbcf7a1143a9ddcd, type: 3}
       propertyPath: m_Name
       value: MenuPulo Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4604820731287429716, guid: d9949548c7f28164fbcf7a1143a9ddcd, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8770056110823463172, guid: d9949548c7f28164fbcf7a1143a9ddcd, type: 3}
       propertyPath: m_Pivot.x

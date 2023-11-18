@@ -157,11 +157,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5610325963647278777, guid: 893fe8a26996dfc41ad1413fcde9971f, type: 3}
       propertyPath: m_GravityScale
-      value: 1
+      value: 1.7
       objectReference: {fileID: 0}
     - target: {fileID: 5852293912069772271, guid: 893fe8a26996dfc41ad1413fcde9971f, type: 3}
       propertyPath: jumpForce
-      value: 5
+      value: 4.5
       objectReference: {fileID: 0}
     - target: {fileID: 5852293912069772271, guid: 893fe8a26996dfc41ad1413fcde9971f, type: 3}
       propertyPath: hudRestartGame

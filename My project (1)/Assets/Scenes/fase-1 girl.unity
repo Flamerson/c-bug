@@ -140,6 +140,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: MenuCorrer
       objectReference: {fileID: 0}
+    - target: {fileID: 1889021274065549016, guid: af558bdf2c396d347b4f9341dfa3f529, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5395991062619201374, guid: af558bdf2c396d347b4f9341dfa3f529, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000017166
+      objectReference: {fileID: 0}
+    - target: {fileID: 5395991062619201374, guid: af558bdf2c396d347b4f9341dfa3f529, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 308
+      objectReference: {fileID: 0}
     - target: {fileID: 9035548332500560982, guid: af558bdf2c396d347b4f9341dfa3f529, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -312,7 +324,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5852293912069772271, guid: 893fe8a26996dfc41ad1413fcde9971f, type: 3}
       propertyPath: jumpForce
-      value: 5
+      value: 4.5
       objectReference: {fileID: 0}
     - target: {fileID: 5852293912069772271, guid: 893fe8a26996dfc41ad1413fcde9971f, type: 3}
       propertyPath: hudRestartGame
@@ -415,6 +427,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 640784443}
     m_Modifications:
+    - target: {fileID: 2474417108698405842, guid: 4ef0a19df680b5249bfd019a2430b4ce, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7030320256783924011, guid: 4ef0a19df680b5249bfd019a2430b4ce, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -498,6 +514,18 @@ PrefabInstance:
     - target: {fileID: 8256586547681195614, guid: 4ef0a19df680b5249bfd019a2430b4ce, type: 3}
       propertyPath: m_Name
       value: MenuAtaque
+      objectReference: {fileID: 0}
+    - target: {fileID: 8256586547681195614, guid: 4ef0a19df680b5249bfd019a2430b4ce, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273876196049175554, guid: 4ef0a19df680b5249bfd019a2430b4ce, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000017166
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273876196049175554, guid: 4ef0a19df680b5249bfd019a2430b4ce, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 299
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -595,6 +623,14 @@ PrefabInstance:
     - target: {fileID: 2142333445718908457, guid: 5bcf262713031974db26e4f084a3c610, type: 3}
       propertyPath: m_Name
       value: MenuEnsinar
+      objectReference: {fileID: 0}
+    - target: {fileID: 2142333445718908457, guid: 5bcf262713031974db26e4f084a3c610, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3231138480908988818, guid: 5bcf262713031974db26e4f084a3c610, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 330
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1978,9 +2014,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 640784443}
     m_Modifications:
+    - target: {fileID: 442370023054393935, guid: 0194c5adcf924cf47ac1853db81244c8, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000017166
+      objectReference: {fileID: 0}
+    - target: {fileID: 442370023054393935, guid: 0194c5adcf924cf47ac1853db81244c8, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 311
+      objectReference: {fileID: 0}
     - target: {fileID: 1442074203765803715, guid: 0194c5adcf924cf47ac1853db81244c8, type: 3}
       propertyPath: m_Name
       value: MenuPulo
+      objectReference: {fileID: 0}
+    - target: {fileID: 1442074203765803715, guid: 0194c5adcf924cf47ac1853db81244c8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5931703908055036307, guid: 0194c5adcf924cf47ac1853db81244c8, type: 3}
       propertyPath: m_Pivot.x

@@ -1571,9 +1571,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7107352812020754488, guid: 23240b1200855154bb93711c81e4d3ef, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000017166
+      objectReference: {fileID: 0}
+    - target: {fileID: 7107352812020754488, guid: 23240b1200855154bb93711c81e4d3ef, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 299
+      objectReference: {fileID: 0}
     - target: {fileID: 8107244940902899892, guid: 23240b1200855154bb93711c81e4d3ef, type: 3}
       propertyPath: m_Name
       value: MenuPulo
+      objectReference: {fileID: 0}
+    - target: {fileID: 8107244940902899892, guid: 23240b1200855154bb93711c81e4d3ef, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

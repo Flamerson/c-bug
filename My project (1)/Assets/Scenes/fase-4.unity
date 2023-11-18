@@ -433,6 +433,10 @@ PrefabInstance:
       propertyPath: fireTwoItem
       value: 
       objectReference: {fileID: 3489537675031336526, guid: 5b2d14e01788d1740b9c80f020da5cfd, type: 3}
+    - target: {fileID: 1493803631664496355, guid: f36c698883110ad49b51119372008836, type: 3}
+      propertyPath: m_GravityScale
+      value: 1.5
+      objectReference: {fileID: 0}
     - target: {fileID: 3338389456310305549, guid: f36c698883110ad49b51119372008836, type: 3}
       propertyPath: m_Name
       value: player-boy
